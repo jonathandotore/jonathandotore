@@ -1,24 +1,22 @@
 ### Hi there, my name's Jonathan! 👋🙇🏻‍♂️
-
 ### Welcome to my personal README! 😊👌
-
-- I currently work as a support analyst, but as soon as possible I'll become a software engineer. 🧑🏻‍💻✅
 - I love programming and everything that involves technology.I love programming and everything that involves technology.
+  
+> [!NOTE]
+> I currently work as a support analyst, but as soon as possible I'll become a software engineer. 🧑🏻‍💻✅
 
 > [!IMPORTANT]
 > I have knowledge of 📝😁🛠️💭
+> SQL Language (Advanced)
+> C# (.NET) (Basic for reading fonts on a daily basis)
+> JavaScript (Intermediary)
+> HTML (Advanced)
+> CSS (Advanced)
+> NodeJS (Begginer)
+> TailwindCSS (Intermediary)
 
-SQL Language (Advanced)
-C# (.NET) (Basic for reading fonts on a daily basis)
-JavaScript (Intermediate)
-HTML (Advanced)
-CSS (Advanced)
-
-Frameworks:
-> NodeJS
-> TailwindCSS
-
-Studying now: 
+> [!NOTE]
+> Studying now: 
 > Typescript
 > React
 
