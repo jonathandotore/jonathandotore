@@ -7,18 +7,18 @@
 
 > [!IMPORTANT]
 > I have knowledge of 📝😁🛠️💭
-> SQL Language (Advanced)
-> C# (.NET) (Basic for reading fonts on a daily basis)
-> JavaScript (Intermediary)
-> HTML (Advanced)
-> CSS (Advanced)
-> NodeJS (Begginer)
-> TailwindCSS (Intermediary)
+- SQL Language (Advanced)
+- C# (.NET) (Basic for reading fonts on a daily basis)
+- JavaScript (Intermediary)
+- HTML (Advanced)
+- CSS (Advanced)
+- NodeJS (Begginer)
+- TailwindCSS (Intermediary)
 
 > [!NOTE]
-> Studying now: 
-> Typescript
-> React
+- Studying now: 
+- Typescript
+- React
 
 I'm constantly learning (although I don't publish much here, 'laughs') and improving my skills as a programmer.
 
