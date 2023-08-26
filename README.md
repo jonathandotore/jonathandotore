@@ -1,22 +1,25 @@
-### Hi there 👋
+### Hi there, my name's Jonathan! 👋🙇🏻‍♂️
 
-## Welcome to my personal README! 😊👌
+### Welcome to my personal README! 😊👌
 
-# - I'm currently Support Analyst, but as soon as possible I'll become a software engineer 🧑🏻‍💻✅
+- I currently work as a support analyst, but as soon as possible I'll become a software engineer. 🧑🏻‍💻✅
+- I love programming and everything that involves technology.I love programming and everything that involves technology.
 
+I have knowledge of 📝😁🛠️💭
+> SQL Language (Advanced) 
+> C# (.NET) (Basic for reading fonts on a daily basis)
+> JavaScript (Intermediate)
+> HTML (Advanced)
+> CSS (Advanced)
 
+Frameworks:
+> NodeJS
+> TailwindCSS
 
-<!--
-**jonathandotore/jonathandotore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Studying now: 
+> Typescript
+> React
 
-Here are some ideas to get you started:
+I'm constantly learning (although I don't publish much here, 'laughs') and improving my skills as a programmer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And soon I hope to be here updating this README and acquiring my dream job in the world of programming. 💫
