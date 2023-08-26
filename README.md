@@ -23,4 +23,4 @@
 
 I'm constantly learning (although I don't publish much here, 'laughs') and improving my skills as a programmer.
 
-And soon I hope to be here updating this README and acquiring my dream job in the world of programming. 💫
+And soon I hope to be here updating this README and acquiring my dream job in the world of programming. 💫 
