@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## Welcome to my personal README! 😊👌
+
+# - I'm currently Support Analyst, but as soon as possible I'll become a software engineer 🧑🏻‍💻✅
+
+
+
 <!--
 **jonathandotore/jonathandotore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
