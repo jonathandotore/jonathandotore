@@ -5,6 +5,7 @@
 > [!NOTE]
 > I currently work as a support analyst, but as soon as possible I'll become a software engineer. 🧑🏻‍💻✅
 
+
 > [!IMPORTANT]
 > I have knowledge of 📝😁🛠️💭
 - SQL Language (Advanced)
@@ -16,7 +17,7 @@
 - TailwindCSS (Intermediary)
 
 > [!NOTE]
-- Studying now: 
+> Studying now: 
 - Typescript
 - React
 
