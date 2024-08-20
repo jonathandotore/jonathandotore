@@ -18,10 +18,11 @@
 - TailwindCSS (Intermediary - knowledge out of date)
 
 > [!NOTE]
-> Studying now: 
+> Studying and workink now: 
 - C# ASP.NET Core
+- SPA's on ASP.NET
 - Razor (MudBlazor)
-- 
+
 I'm constantly learning (although I don't publish much here, 'laughs') and improving my skills as a programmer.
 
 And soon I hope to be here updating this README and acquiring my dream job in the world of programming. 💫 
