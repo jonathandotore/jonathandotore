@@ -9,16 +9,16 @@
 > [!IMPORTANT]
 > I have knowledge of 📝😁🛠️💭
 - SQL Language (Advanced - Procedures, Views, Triggers) (It's a database that I'm working nowadays) 
-- C# ASP.NET (Language that I'm working nowadays)
+- C# ASP.NET (Intermediary)
 - JavaScript (Intermediary)
 - HTML (Advanced)
 - CSS (Advanced)
 - NodeJS (Basic)
-- jQuery (Intermediary - Language that I'm working nowadays)
-- TailwindCSS (Intermediary - knowledge out of date)
+- jQuery (Intermediary)
+- TailwindCSS (Basic)
 
 > [!NOTE]
-> Studying and workink now: 
+> Studying looking for a job!
 - C# ASP.NET Core
 - SPA's on ASP.NET
 - Razor (MudBlazor)
