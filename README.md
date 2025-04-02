@@ -4,8 +4,9 @@
 
 > [!IMPORTANT]
 > I have knowledge of 📝😁🛠️💭
-- SQL Language (Advanced - Procedures, Views, Triggers) (It's a database that I'm working nowadays) 
+- SQL Language (Advanced - Procedures, Views, Triggers)
 - C# ASP.NET (Intermediary)
+- Knowledge on ORM's: EF Core, Dapper, ADO.NET
 - JavaScript (Intermediary)
 - HTML (Advanced)
 - CSS (Advanced)
